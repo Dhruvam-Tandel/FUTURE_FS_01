@@ -18,5 +18,3 @@ This is my personal portfolio website built using the **MERN stack** (MongoDB, E
 
 ---
 
-## 📂 Folder Structure
-
