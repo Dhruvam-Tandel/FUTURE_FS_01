@@ -19,6 +19,6 @@ This is my personal portfolio website built using the **MERN stack** (MongoDB, E
 ---
 
 📂 Folder Structure
-/my-portfolio
-├── /frontend # React.js + TailwindCSS frontend
-└── /backend # Node.js + Express backend with API & email/contact handling
+-/my-portfolio
+-├── /frontend # React.js + TailwindCSS frontend
+-└── /backend # Node.js + Express backend with API & email/contact handling
