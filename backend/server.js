@@ -2,7 +2,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
 const dotenv = require('dotenv');
-const contactRoutes = require('./routes/contact');
+// const contactRoutes = require('./routes/contact');
 const projectRoutes = require('./routes/projects');
 
 dotenv.config();
@@ -14,7 +14,7 @@ app.use(cors());
 app.use(express.json());
 
 // Routes
-app.use('/api/contact', contactRoutes);
+// app.use('/api/contact', contactRoutes);
 app.use('/api/projects', projectRoutes);
 
 // MongoDB Connection
